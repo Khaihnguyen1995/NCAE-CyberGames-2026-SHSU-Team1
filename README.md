@@ -1,5 +1,5 @@
-# NCAE-CyberGames-2025-SHSU-Team1
-# Team [Your Name] - NCAE 2025 Resources
+# NCAE-CyberGames-2026-SHSU-Team1
+# Team [Your Name] - NCAE 2026 Resources
 
 ## 📊 Network Map (Team X)
 | Device | Role | IP Address | Credentials |
